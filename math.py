@@ -12,4 +12,5 @@ def divide(x,y):
     return (x/y)
 #square
 def square(x)
-	return 2*x
+	return x*x
+
