@@ -1,6 +1,6 @@
 #Add #Add
 def add(x,y):
-    return x+y; #add
+    return x+y; #add #text for bug1
 	#subtract #subtract
 def subtract(x,y):
     return x-y   #subtract
