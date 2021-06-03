@@ -11,6 +11,6 @@ def multiply(x,y):
 def divide(x,y):
     return (x/y)
 #square
-def square(x)
+def square(x) #text in creat
 	return x*x #text for feature branch
 
