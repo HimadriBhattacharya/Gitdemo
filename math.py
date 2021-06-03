@@ -1,7 +1,7 @@
-#Add
+#Add #Add
 def add(x,y):
     return x+y; #add
-	#subtract
+	#subtract #subtract
 def subtract(x,y):
     return x-y   #subtract
 	#multiply
